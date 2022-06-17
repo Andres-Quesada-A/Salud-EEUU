@@ -1,11 +1,12 @@
 import './App.css';
-import Embed from './components/Embed';
+import { Container } from './components/Container';
+// import Embed from './components/Embed';
 
 function App() {
   return (
     <div className="App">
-      <h1>Basic Embed</h1>
-      <Embed />
+      <h1>Proyecto Final</h1>
+      <Container />
     </div>
   );
 }

@@ -3,11 +3,10 @@ import styles from "./Embed.module.css";
 
 const { tableau } = window;
 
-function Embed() {
-    var viz;
+function Embed( {path}) {
+  var viz;
   const ref = useRef(null);
-  const url =
-    "https://public.tableau.com/views/Ingresospersonales2001-2013/Dashboard1";
+  const url = path;
 
   const options = {
     device: "desktop",
