@@ -4,10 +4,10 @@ export default function NavBar() {
   return (
     <nav className="nav">
       <Link to="/" className="site-title">
-        Site Name
+        Proyecto Final
       </Link>
       <ul>
-        <CustomLink to="/hipotesis">Hipotesis</CustomLink>
+        <CustomLink to="/hipotesis">Hipótesis</CustomLink>
         <CustomLink to="/visualizaciones">Visualizaciones</CustomLink>
       </ul>
     </nav>

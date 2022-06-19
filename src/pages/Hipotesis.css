@@ -1,0 +1,16 @@
+.container-page-hipotesis{
+    width: 100%;
+    padding: 0 150px;
+    margin-bottom: 100px;
+}
+.container-page-hipotesis h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+}
+.container-page-hipotesis ul li{
+    font-size: 17px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
