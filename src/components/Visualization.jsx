@@ -6,8 +6,8 @@ import { ContentText } from "./ContentText";
 export default function Visualization(){
     return (
         <div className="container-page-vis">
-            {graphics.map((graphic) => (
-                <><Embed key={graphic.id} path={graphic.path} />
+            {graphics.map((graphic, index) => (
+                <><Embed key={index} path={graphic.path} />
                 <ContentText graphic={graphic} /></>
             ))}
         </div>

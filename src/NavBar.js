@@ -9,6 +9,7 @@ export default function NavBar() {
       <ul>
         <CustomLink to="/hipotesis">Hipótesis</CustomLink>
         <CustomLink to="/visualizaciones">Visualizaciones</CustomLink>
+        <CustomLink to="/conclusiones">Conclusiones</CustomLink>
       </ul>
     </nav>
   );

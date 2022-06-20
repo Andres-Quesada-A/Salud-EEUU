@@ -5,6 +5,7 @@ import Visualization  from './components/Visualization';
 import Home from './pages/Home';
 import Hipotesis from './pages/Hipotesis';
 import Footer from './footer/Footer';
+import Conclusiones from './pages/Conclusiones';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />}/>
             <Route path="/hipotesis" element={<Hipotesis />}/>
-            <Route path="/Visualizaciones" element={<Visualization />}/>
+            <Route path="/visualizaciones" element={<Visualization />}/>
+            <Route path="/conclusiones" element={<Conclusiones />}/>
           </Routes>
         </div>
       </div> 

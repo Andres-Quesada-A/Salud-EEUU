@@ -4,7 +4,7 @@ import styles from "./Embed.module.css";
 const { tableau } = window;
 
 function Embed( {path}) {
-  var viz;
+  let viz = useRef(null);
   const ref = useRef(null);
   const url = path;
 
@@ -13,11 +13,15 @@ function Embed( {path}) {
     hideTabs: true,
   };
 
-  const initViz = () => {
-    viz = new tableau.Viz(ref.current, url, options);
-  };
+  // const initViz = () => {
+  //   viz = new tableau.Viz(ref.current, url, options);
+  // };
 
   useEffect(() => {
+    const initViz = () => {
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      viz = new tableau.Viz(ref.current, url, options);
+    };
     initViz();
   }, []);
 
