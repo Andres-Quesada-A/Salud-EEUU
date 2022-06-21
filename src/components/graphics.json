@@ -13,23 +13,62 @@
     },
     {
         "contenido" : "La Salud Mental consiste en el bienestar psicológico y emocional que todas las personas deben tener, sin embargo, hay ciertos aspectos que imposibilitan este estado y la salud física tiene mucho que ver en esto. Si el cuerpo no está del todo sano, es posible que la mente padezca una serie de estragos anímicos que, más adelante, se tornan serios y que ameritan asistencia médica especial, esto no quiere decir que las personas con problemas de salud mental deban ser excluidas, simplemente necesitan un tipo de atención más rigurosa, con tratamientos médicos específicos y con personas adecuadas dispuestas a su cuido y resguardo. [1]"
+    },
+    {
+        "contenido": "Comencemos analizando la expectativa de vida y la tasa de mortalidad en los Estados Unidos durante el 2001 al 2013, cabe mencionar que los valores utilizados son ajustados por edad, esto quiere decir que se toma la población determinada, en este caso puede ser la expectativa de vida y la tasa de mortalidad, luego esto es dividido por el total de la población, habiendo eliminado el efecto de las diferencias de los datos, expresada por 1.000 habitantes para un año dado."
+    },
+    {
+        "contenido": "En la siguiente visualización se puede observar el comportamiento de la expectativa de vida y la tasa de mortalidad, donde la mortalidad ha tenido un descenso importante en los últimos años, pasando de una tasa de mortalidad de 8.56 mil en el año 2001 hasta llegar a una tasa de 7.07 mil en el año 2013. Cabe mencionar que el cambio en la tasa de mortalidad se debe a que en los últimos años han ocurrido mejoras en el ámbito de la medicina, donde se han encontrado la cura para muchas enfermedades y también donde el control de los factores de riesgo importantes ha evitado las muertes prematuras."
+    },
+    {
+        "contenido" : "Al contrario, la esperanza de vida ha sido muy constante durante el periodo de tiempo tomado, la esperanza de vida varia entre 0.68 mil a 0.70mil. Algunos factores que han provocado que ocurra la disminución de esperanza de vida son la diferencia de ingresos o salarios entre las personas, las sobredosis de sustancias, la obesidad, enfermedades cardiacas, el suicidio entre otros factores. "
+    },
+    {
+        "contenido" : "Los cambios más notorios son cuando se comparan las diferentes etnias o razas como se describe en el data set, el descenso de la tasa de mortalidad cuando se trata de personas blancas es mucho menor en comparación al descenso que tuvo la de personas negras, incluso se puede observar que la esperanza de vida es mucho menor."
+    },
+    {
+        "contenido" : "También el hombre ha tenido una mayor tasa de mortalidad en comparación a la mujer, el hombre parte de 3.43 mil hasta llegar a una tasa de 2.79 mil, en cambio la mujer parte de 2.35 mil hasta 1.97 mil."
     }
     ]
   },
   {
     "id": 2,
     "path": "https://public.tableau.com/shared/WH6YZMPKZ?:display_count=n&:origin=viz_share_link",
-    "content": []
+    "content": [
+        {
+            "contenido" : "Centremos ahora solo en los principales factores que han provocado muertes en el periodo del 2001 al 2013. Dentro de las principales causas de muerte se pueden mencionar los accidentes, el cáncer, el derrame cerebral, las enfermedades cardiacas, las influenza y neumonía. En la siguiente animación se puede observar como han avanzado las principales causas con el paso de los años."
+        },
+        {
+            "contenido" : "Donde se puede observar comportamientos bastante interesantes como, que las enfermedades cardiacas han tenido una disminución importante en el periodo de tiempo, también el cáncer y las influenza, esto se debe a los avances en la medicina que han surgido en esos años, siendo capaces de detectar enfermedades o encontrar una cura y una medida para controlar cada causa de muerte."
+        },
+        {
+            "contenido" : "Una causa que ha aumentado con el paso de los años es la de accidentes, esto puede ser por el aumento de los desplazamientos por carretera, también esta la opción de que los usuarios suelen comprar o alargar la vida de los autos, y por consecuente las carreteras se vuelve un parque antiguo, donde el equipamiento de seguridad y el mal estado o mantenimiento de los coches se vuelven más usuales e implicados en accidentes de tráfico mortales. El abuso de sustancias es un factor importante que provoca accidentes."
+        }
+    ]
   },
   {
     "id": 3,
     "path": "https://public.tableau.com/views/histogramamuertesporenfermedad2/Dashboard1",
-    "content": []
+    "content": [
+        {
+            "contenido" : "Según los Centros para el Control y la Prevención de Enfermedades (CDC), la disminución en el riesgo de enfermedades cardíacas podría atribuirse inicialmente a la disminución del tabaquismo y el cáncer de pulmón. Más recientemente, la disminución se atribuye a un mejor tratamiento para problemas cardíacos, además de mayores reducciones en factores de riesgo como el colesterol, la presión arterial alta y el tabaquismo. Sin embargo, el aumento reciente de muertes relacionadas con enfermedades cardíacas puede deberse a aumentos en el índice de masa corporal y la diabetes. [2]"
+        },
+        {
+            "contenido" : "La gripe y la neumonía representan una pequeña proporción de las muertes y afectan principalmente a los ancianos. Históricamente, enfermedades similares, como la gripe y la neumonía, han causado muchas menos muertes. La tasa de mortalidad relacionada con la neumonía se ha reducido en más de la mitad desde 1999, quizás en parte debido al aumento de las tasas de vacunación contra la neumonía (CDC) [2]."
+        },
+        {
+            "contenido" : "Por qué es importante medir la muerte El gobierno gasta más de $ 1 billón en salud por año. Comprender por qué las tasas de mortalidad continúan aumentando entre poblaciones y ubicaciones específicas brinda información crítica sobre dónde el sistema de atención médica de EE. UU. está teniendo éxito y fallando. [2]"
+        }
+    ]
   },
   {
     "id": 4,
     "path": "https://public.tableau.com/shared/5R5HFXQ3F?:display_count=n&:origin=viz_share_link",
-    "content": []
+    "content": [
+        {
+            "contenido" : "Una vez tratado el tema de la tasa de muertes, pasemos a analizar como incluye los ingresos personales en distintos aspectos que se mencionaran más adelante."
+        }
+    ]
   },
   {
     "id": 5,
@@ -37,19 +76,34 @@
     "content": []
   },
   {
-    "id": 6,
-    "path": "https://public.tableau.com/views/IncidenciaTuberculosis2010-2014/Dashboard1",
-    "content": []
-  },
-
-  {
     "id": 7,
     "path": "https://public.tableau.com/views/PrevalenciadelaobesidadenEstadosUnidos2009/Prevalencia2001_2009",
-    "content": []
+    "content": [
+        {
+          "contenido":"Estados Unidos, como nación desarrollada, tiene un acceso superior a tecnología, la cual le ha permitido florecer en un número de maneras, sin embargo, gracias a los avances de estas tecnologías, el incremento en peso ha sido un efecto secundario perceptible. En este gráfico comparativo, podemos observar como la prevalencia promedio de el Estadounidense ha incrementado[3]"
+        },
+        {
+          "contenido":"Hubo un incremento muy grande, tanto en la proporción mínima como en la máxima, es decir, que de forma constante, los estadounidenses aumentaron su peso. Vemos que, a pesar de que el incremento fue general, lugares como el distrito de Columbia o Hawaii, poseen una prevalencia menor de la obesidad.[3]"
+        },
+        {
+          "contenido":"Una posible hipótesis relacionada a la prevalencia tan alta y su incremento anual, tiene que ver con el ejercicio físico o la comida que se consume. Atando cabos entre los lugares con las menores prevalencias de obesidad, podemos observar que Hawaii y el Distrito de Columbia tienen ambos un territorio reducido, además, la comida consumida comunmente en Hawaii, comparada con la dieta promedio del estadounidense, es mejor[5][3]"
+        }
+        
+      ]
   },
   {
     "id": 8,
     "path": "https://public.tableau.com/views/Indicadoresestadosunidos/Dashboard1",
-    "content": []
+    "content": [
+        {
+          "contenido":"La obesidad está relacionada con un gran número de padecimientos físicos[6], en este gráfico podemos observar, categorizados por región, las diferentes prevalencias promedio para distintos padecimientos[3]. Vemos que la prevalencia promedio de estos padecimientos es poca, pero tiende a la alza en el Sur de los Estados Unidos.[4] "
+        },
+        {
+          "contenido":"El sur de los Estados Unidos, observado en el mapa de la prevalencia de la obesidad[3], tambien es la región con más prevalencia de enfermedad coronaria del corazón y derrames cerebrales[4]. Podemos concluir a partir de estos datos, que su obesidad es un factor que juega en contra de ellos."
+        },
+        {
+          "contenido":"Mientras que la prevalencia de la obesidad aumenta[3], la actividad física disminuye[4], y vemos que es algo general que ocurre en todas las regiones de Estados Unidos. Esto explicaría de una forma la epidemia de la obesidad que ocurre actualmente."
+        }
+    ]
   }
 ]

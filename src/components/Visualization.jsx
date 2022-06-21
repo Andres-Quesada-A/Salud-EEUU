@@ -20,9 +20,22 @@ export default function Visualization() {
       <div className="referencias">
         <h2>Referencias bibliográficas</h2>
         <p>
-          [1] Pérez y Mariana. "Definición de Salud". Concepto Definición.
-          https://conceptodefinicion.de/salud/. (accedido el 20 de junio de
-          2022).
+          [1] Pérez y Mariana. "Definición de Salud". Concepto Definición.https://conceptodefinicion.de/salud/. (accedido el 20 de junio de 2022).
+        </p>
+        <p>
+          [2] USAFacts. "Most Common Causes of Death in The US". USAFacts. https://usafacts.org/articles/americans-causes-of-death-by-age-cdc-data/. (accedido el 21 de junio de 2022).
+        </p>
+        <p>
+          [3]”National Cardiovascular Disease Surveillance Data”. CDC Available: https://chronicdata.cdc.gov/Heart-Disease-Stroke-Prevention/National-Health-Interview-Survey-NHIS-National-Car/fwns-azgu/data
+        </p>
+        <p>
+          [4] IHME. “Life expectancy,obesity and physical activity”. IHME.  Available: https://www.healthdata.org/us-health/data-download
+        </p>
+        <p>
+          [5]:”The Hawaiian Diet: Traditional Native vs. "Local" Food”. Brittany Kennedt.  Available:https://delishably.com/world-cuisine/Hawaiian-Food-Culture-The-Evolution-and-Effects-of-Local-Food
+        </p>
+        <p>
+          [6]:”Health Risks of Overweight & Obesity”.NIH Available: https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks
         </p>
       </div>
     </div>
