@@ -48,7 +48,6 @@ function Embed( {path}) {
     <div className={styles.container}>
       <div className={styles.graphics} ref={ref} />
       <div className={styles.download}>
-        <h1>Descargar</h1>
         <div className={styles.download_options}>
           <button onClick={exportToPDF}>
             <img

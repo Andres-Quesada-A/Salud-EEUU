@@ -9,13 +9,13 @@
     height: 827px;
 }
 .download{
-    height: 180px;
-    width: 300px;
+    height: 80px;
+    width: 440px;
     box-shadow: 0 0 5px #ddd;
     border-radius: 8px;
     position: absolute;
-    bottom: 50px;
-    right: 30%;
+    bottom: 35px;
+    right: 15%;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -34,9 +34,10 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 270px;
-    height: 110px;
-    margin-left: 15px;
+    width: 420px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
 .download_options button{
@@ -45,7 +46,7 @@
     box-shadow: 0 0 0px .5px #888;
     background: #fff;
     margin: 10px;
-    width: 110px;
+    width: 80px;
     height: 35px;
     display: flex;
     align-items: center;
