@@ -1,45 +1,55 @@
 [
-    {
-        "id": 1,
-        "path": "https://public.tableau.com/views/Ingresospersonales2001-2013/Dashboard1",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
-        
+  {
+    "id": 1,
+    "path": "https://public.tableau.com/views/lifeexpectancyandmortality/Dashboard1",
+    "content": [{
+        "contenido" : "De acuerdo a diferentes teorías, la salud debe dejar de verse como un estado o elemento abstracto y comenzar a aceptarla como medio para alcanzar un determinado fin, en este caso sería alcanzar un bienestar mental, social y físico, de manera que se pueda obtener una vida individual plena. Llegado a este punto, se entiende la definición de salud como uno de los recursos de la vida cotidiana y no como un objetivo de vida. [1]"
     },
     {
-        "id": 2,
-        "path": "https://public.tableau.com/shared/95NB4TWJQ?:display_count=n&:origin=viz_share_link",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
+        "contenido": "La Salud física se trata de un estado de bienestar donde el cuerpo de un ser vivo se encuentra en óptimas condiciones para realizar todo tipo de actividades. La salud física está directamente ligada al estado físico de los seres vivos, donde debe haber un correcto funcionamiento y poseer las maneras adecuadas para poder preservar la salud física. Una de las maneras que se puede emplear para tener una buena salud física es teniendo hábitos higiénicos. [1]"
     },
     {
-        "id": 3,
-        "path": "https://public.tableau.com/views/histogramamuertesporenfermedad2/Dashboard1",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
+        "contenido" : "El cuerpo de un ser vivo puede verse afectado por diversas enfermedades o situaciones que, de una u otra manera logran debilitar la salud física de este, por lo que se necesita intervención médica como puede ser el uso de medicina para estabilizar los valores anatómicos que no se encuentran en optimas condiciones y así lograr que el cuerpo del ser vivo vuelva a su estado de vida cotidiano. [1]"
     },
     {
-        "id": 4,
-        "path": "https://public.tableau.com/app/profile/mario.lara7920/viz/IncidenciaTuberculosis2010-2014/Dashboard1",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
-    },
-    {
-        "id": 5,
-        "path": "https://public.tableau.com/views/Tasademuerteajustadasporedaddelasmayorescausas2001-20132/Dashboard1",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
-    },
-    {
-        "id": 6,
-        "path": "https://public.tableau.com/views/Tasademuerteajustadasporedaddelasmayorescausas2001-20133/Dashboard1",
-        "content": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
-    },
-
-    {
-        "id":7,
-        "path":"https://public.tableau.com/views/PrevalenciadelaobesidadenEstadosUnidos2009/Prevalencia2001_2009",
-        "content":"LLorem ipsum dolor sit amet consectetur adipisicing elit. Cumque possimus iure officia, fugiat accusantium tenetur nihil provident qui voluptas sunt voluptatibus omnis ullam ex assumenda? Omnis dignissimos veritatis autem reiciendis, ut aliquid officiis ab ipsa necessitatibus in. Accusantium molestiae necessitatibus recusandae nisi quaerat alias debitis vel voluptatibus soluta natus voluptate ipsam sapiente nihil, fugit dicta! Eos deserunt veniam beatae quia."
-        
-    },
-    {
-    "id":8,
-    "path":"https://public.tableau.com/views/Indicadoresestadosunidos/Dashboard1",
-    "content":"LLorem ipsum dolor sit amet consectetur"
+        "contenido" : "La Salud Mental consiste en el bienestar psicológico y emocional que todas las personas deben tener, sin embargo, hay ciertos aspectos que imposibilitan este estado y la salud física tiene mucho que ver en esto. Si el cuerpo no está del todo sano, es posible que la mente padezca una serie de estragos anímicos que, más adelante, se tornan serios y que ameritan asistencia médica especial, esto no quiere decir que las personas con problemas de salud mental deban ser excluidas, simplemente necesitan un tipo de atención más rigurosa, con tratamientos médicos específicos y con personas adecuadas dispuestas a su cuido y resguardo. [1]"
     }
+    ]
+  },
+  {
+    "id": 2,
+    "path": "https://public.tableau.com/shared/WH6YZMPKZ?:display_count=n&:origin=viz_share_link",
+    "content": []
+  },
+  {
+    "id": 3,
+    "path": "https://public.tableau.com/views/histogramamuertesporenfermedad2/Dashboard1",
+    "content": []
+  },
+  {
+    "id": 4,
+    "path": "https://public.tableau.com/shared/5R5HFXQ3F?:display_count=n&:origin=viz_share_link",
+    "content": []
+  },
+  {
+    "id": 5,
+    "path": "https://public.tableau.com/views/Ingresospersonalesygastosensalud/Dashboard1",
+    "content": []
+  },
+  {
+    "id": 6,
+    "path": "https://public.tableau.com/views/IncidenciaTuberculosis2010-2014/Dashboard1",
+    "content": []
+  },
+
+  {
+    "id": 7,
+    "path": "https://public.tableau.com/views/PrevalenciadelaobesidadenEstadosUnidos2009/Prevalencia2001_2009",
+    "content": []
+  },
+  {
+    "id": 8,
+    "path": "https://public.tableau.com/views/Indicadoresestadosunidos/Dashboard1",
+    "content": []
+  }
 ]

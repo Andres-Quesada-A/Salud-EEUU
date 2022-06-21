@@ -1,0 +1,19 @@
+.container-page-vis .title{
+    margin: 20px 200px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.referencias{
+    margin: 40px 200px;
+}
+.referencias h2{
+    font-size: 25px;
+    font-weight: 500;
+}
+.referencias p{
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 400;
+}
