@@ -26,16 +26,22 @@ export default function Visualization() {
           [2] USAFacts. "Most Common Causes of Death in The US". USAFacts. https://usafacts.org/articles/americans-causes-of-death-by-age-cdc-data/. (accedido el 21 de junio de 2022).
         </p>
         <p>
-          [3]”National Cardiovascular Disease Surveillance Data”. CDC Available: https://chronicdata.cdc.gov/Heart-Disease-Stroke-Prevention/National-Health-Interview-Survey-NHIS-National-Car/fwns-azgu/data
+          [3] ”National Cardiovascular Disease Surveillance Data”. CDC Available: https://chronicdata.cdc.gov/Heart-Disease-Stroke-Prevention/National-Health-Interview-Survey-NHIS-National-Car/fwns-azgu/data
         </p>
         <p>
           [4] IHME. “Life expectancy,obesity and physical activity”. IHME.  Available: https://www.healthdata.org/us-health/data-download
         </p>
         <p>
-          [5]:”The Hawaiian Diet: Traditional Native vs. "Local" Food”. Brittany Kennedt.  Available:https://delishably.com/world-cuisine/Hawaiian-Food-Culture-The-Evolution-and-Effects-of-Local-Food
+          [5] ”The Hawaiian Diet: Traditional Native vs. "Local" Food”. Brittany Kennedt.  Available:https://delishably.com/world-cuisine/Hawaiian-Food-Culture-The-Evolution-and-Effects-of-Local-Food
         </p>
         <p>
-          [6]:”Health Risks of Overweight & Obesity”.NIH Available: https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks
+          [6] ”Health Risks of Overweight & Obesity”.NIH Available: https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks
+        </p>
+        <p>
+          [7] "¿Qué es el indicador Personal Income de los Estados Unidos?" Invezz. https://invezz.com/es/diccionario/ingresos-personales-estados-unidos/ (accedido el 21 de junio de 2022).
+        </p>
+        <p>
+          [8] D. Thompson. "¿Por qué Estados Unidos gasta más en la atención de la salud?" Consumer Health News | HealthDay. https://consumer.healthday.com/h. (accedido el 21 de junio de 2022).
         </p>
       </div>
     </div>

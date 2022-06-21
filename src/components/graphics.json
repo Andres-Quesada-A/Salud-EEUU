@@ -67,13 +67,33 @@
     "content": [
         {
             "contenido" : "Una vez tratado el tema de la tasa de muertes, pasemos a analizar como incluye los ingresos personales en distintos aspectos que se mencionaran más adelante."
+        },
+        {
+            "contenido" : "El indicador Ingresos Personales de Estados Unidos mide los ingresos brutos de los hogares estadounidenses, es decir, los ingresos antes de descontar los impuestos que es recibido en concepto de salario laboral, ganancias derivadas de inversiones y otros conceptos. La mayor parte de la medida del Personal Income proviene de los salarios de los trabajadores a cuenta ajena y, por ello, la cifra de este indicador puede dar una idea de la situación del mercado laboral de EE.UU. [7]"
+        },
+        {
+            "contenido" : "Los datos están en dólares estadounidenses actuales sin ajustar por inflación o deflación. Según la BEA, la renta personal es la renta que perciben las personas de todas las fuentes. Se calcula como la suma de los desembolsos de sueldos y salarios, suplementos de sueldos y salarios, renta de propietarios con ajuste de valor de inventario y consumo de capital, renta de alquiler de personas con ajuste de consumo de capital, renta de dividendos personales, renta de intereses personales y transferencia corriente personal recibos, menos las contribuciones para el seguro social del gobierno."
+        },
+        {
+            "contenido" : "En el siguiente gráfico se puede observar como el ingreso personal a tenido un aumento importante en los últimos años, pero además se puede ver como la tasa de desempleo a jugado un papel importante a lo largo de los años. Se puede observar como el nivel de desempleo han aumentado, pero a su vez los ingresos personales también han aumentado, con esto podemos descartar la idea de que la tasa de empleo está relacionada directamente con los ingresos personales. Cabe mencionar que también un factor que ha apoyado a los ingresos es el nivel de educación y la cantidad de personas graduadas."
         }
+
     ]
   },
   {
     "id": 5,
     "path": "https://public.tableau.com/views/Ingresospersonalesygastosensalud/Dashboard1",
-    "content": []
+    "content": [
+        {
+            "contenido" : "Los investigadores encontraron que Estados Unidos gasta casi el doble de su riqueza en su atención de la salud (un 17.8 por ciento de su producto interno bruto), en contraste con entre el 9.6 y el 12.4 por ciento en los otros países. Pero ese dinero no está sirviendo para que Estados Unidos tenga una mejor salud. Estados Unidos tiene aproximadamente tantos médicos y enfermeras como los otros países, y tasas parecidas de tratamiento. [8]"
+        },
+        {
+            "contenido" : "Pero el precio varió ampliamente con respecto a los medicamentos. El gasto farmacéutico fue de 1,443 dólares por persona en Estados Unidos, frente a un rango de entre 466 y 939 dólares en los demás países. Los estadounidenses también parecen pagar más por las pruebas diagnósticas y las visitas al consultorio. [8]"
+        },
+        {
+            "contenido" : "A los médicos y al personal de enfermería también se les paga más generosamente en Estados Unidos. Además, Estados Unidos gasta más en la estructura administrativa que se usa para operar su sistema de atención de la salud: aproximadamente un 8 por ciento del gasto en atención de la salud, frente a entre un 1 y un 3 por ciento en otros lugares. [8] "
+        }
+    ]
   },
   {
     "id": 7,
